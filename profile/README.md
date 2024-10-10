@@ -14,7 +14,7 @@ We invite all members of the Pentaho community to join us in this exciting endea
 If you're interested in collaborating, please visit our GitHub repository: GitHub - Tahopen Project. Together, we can ensure that the benefits of Pentaho's capabilities remain accessible to all.
 
 
-If you align with the principles of Tahopen and would like to support or contribute in any way, we invite you to sign the manifesto by submitting a pull request on GitHub. Add your name or organization under the appropriate category (Companies, Projects, Foundations, or Individuals) and specify how you plan to contribute or support the project.
+read the [Tahopen Manifesto](https://github.com/tahopen/manifesto) and if you align with the principles of Tahopen and would like to support or contribute in any way, we invite you to sign the manifesto by submitting a pull request on GitHub. Add your name or organization under the appropriate category (Companies, Projects, Foundations, or Individuals) and specify how you plan to contribute or support the project.
 [Tahopen Manifesto](https://github.com/tahopen/manifesto)
 
 Thank you for your support, and let’s create something amazing together!
