@@ -40,5 +40,3 @@ While commercial products often focus on restrictions and intellectual property 
 Open source software shows us that innovation cannot be contained. Every time a company decides to close its code, new doors open for the community. Tahopen is a prime example: the natural response to a product going closed-source is the birth of a free alternative that adheres to open source principles and provides an accessible platform for all.
 
 Tahopen is not just a tool; it’s a philosophy. It embodies the belief that technology should be open, accessible, and evolve through collaboration. By embracing both Open Source and Free Software, Tahopen ensures that innovation is always shared, freedom is respected, and the power of analytics is available to all. Join us on this journey of freedom and innovation, where every contribution strengthens the ecosystem and keeps the spirit of open source alive.
-
-This enhanced manifesto emphasizes the foundational role that Open Source and Free Software play in Tahopen, ensuring a truly open and accessible platform that benefits from shared innovation and community-driven development.
