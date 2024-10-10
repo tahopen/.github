@@ -20,7 +20,9 @@ If you align with the principles of Tahopen and would like to support or contrib
 Thank you for your support, and let’s create something amazing together!
 
 Best regards,
+
 The Tahopen Team
+
 Marcio Junior Vieira - Team Leader 
 
 
