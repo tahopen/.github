@@ -1,5 +1,7 @@
 # Tahopen project
 
+![Logo Tahopen](imghttp://www.tahopen.org/tahopen.png)
+
 🌟 Announcing the Tahopen Project: An Open Source Alternative for the Pentaho Community! 🌟
 
 Dear Pentaho Community,
