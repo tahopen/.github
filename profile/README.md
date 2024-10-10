@@ -1,7 +1,7 @@
 # Tahopen project
-<div style="text-align: center;">
+<center>
 <img src="http://www.tahopen.org/tahopen.png" alt="Logo Tahopen" width="80" height="80">
-</div>
+</center>
 
 🌟 Announcing the Tahopen Project: An Open Source Alternative for the Pentaho Community! 🌟
 
