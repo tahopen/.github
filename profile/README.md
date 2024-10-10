@@ -1,6 +1,6 @@
 # Tahopen project
 
-<img src="[https://link-da-imagem.com/imagem.jpg](http://www.tahopen.org/tahopen.png)" alt="Logo Tahopen" width="200" height="200">
+<img src="[http://www.tahopen.org/tahopen.png]" alt="Logo Tahopen" width="200" height="200">
 🌟 Announcing the Tahopen Project: An Open Source Alternative for the Pentaho Community! 🌟
 
 Dear Pentaho Community,
