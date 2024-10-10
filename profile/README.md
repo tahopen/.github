@@ -15,6 +15,7 @@ If you're interested in collaborating, please visit our GitHub repository: GitHu
 
 
 read the [Tahopen Manifesto](https://github.com/tahopen/manifesto) and if you align with the principles of Tahopen and would like to support or contribute in any way, we invite you to sign the manifesto by submitting a pull request on GitHub. Add your name or organization under the appropriate category (Companies, Projects, Foundations, or Individuals) and specify how you plan to contribute or support the project.
+
 [Tahopen Manifesto](https://github.com/tahopen/manifesto)
 
 Thank you for your support, and let’s create something amazing together!
