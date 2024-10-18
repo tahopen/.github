@@ -1,4 +1,4 @@
-# Tahopen project
+# Tahopen Project
 <div align="center">
 <img src="http://www.tahopen.org/tahopen.png" alt="Logo Tahopen" width="80" height="80">
 </div>
